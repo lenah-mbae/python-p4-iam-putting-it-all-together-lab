@@ -26,6 +26,7 @@ class TestRecipe:
                         """ smallness northward situation few her certainty""" + \
                         """ something.""",
                     minutes_to_complete=60,
+                    
                     )
 
             db.session.add(recipe)
